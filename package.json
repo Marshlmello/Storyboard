@@ -1,0 +1,27 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "10.4.15",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "file-saver": "^2.0.5",
+    "fs": "^0.0.1-security",
+    "html2canvas": "^1.4.1",
+    "multer": "^1.4.5-lts.1",
+    "next": "13.4.13",
+    "openai": "^3.2.1",
+    "postcss": "8.4.27",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-file-reader": "^1.1.4",
+    "tailwindcss": "3.3.3"
+  }
+}
